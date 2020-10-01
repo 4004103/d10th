@@ -329,6 +329,10 @@ img {
 	background: #fff;
 }
 
+.main-section3 .container.history-wr {
+	background: url("../d10th/img/history-strip.png") repeat-y center center;
+}
+
 .history-wr .his-con-gap {
 	margin: 50px 0;
 }
@@ -585,6 +589,7 @@ img {
 
 .main-section4_6-bg:after {
 	content: '';
+	background: url("/theme/bs4_v3.0/img/pub/slide-bg.png") no-repeat center 22%;
 	background-size: contain;
 	display: inline-block;
 	width: 100%;
