@@ -205,7 +205,6 @@ img {
 
 .main-section2-con2 {
 	padding-right: 0 !important;
-	background: url(/theme/bs4_v3.0/img/pub/main-section2.png) no-repeat right bottom;
 	background-size: contain;
 }
 
@@ -419,7 +418,6 @@ img {
 		position: absolute;
 		top: 0;
 		left: 50%;
-		background: url("/theme/bs4_v3.0/img/pub/history-strip.png") repeat-y top center;
 	}
 
 	.history-wr .his-con-gap img {
@@ -505,7 +503,6 @@ img {
 	background: url("../img/public-bg.png") no-repeat;
 }
 
-/* .main-section4:after{content:''; width:50%; height:100%; display:block; background:url("/theme/bs4_v3.0/img/pub/public-bg.png") no-repeat top right; background-size:cover; position:absolute; top:0; right:0;} */
 .public-wr {}
 
 .public-wr .public-title-img img {
@@ -589,7 +586,6 @@ img {
 
 .main-section4_6-bg:after {
 	content: '';
-	background: url("/theme/bs4_v3.0/img/pub/slide-bg.png") no-repeat center 22%;
 	background-size: contain;
 	display: inline-block;
 	width: 100%;

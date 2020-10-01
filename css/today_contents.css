@@ -261,7 +261,6 @@ caption {
 
 .main-section2-con2 {
 	padding-right: 0 !important;
-	background: url(/theme/bs4_v3.0/img/pub/today-main-section2.png) no-repeat right bottom;
 	background-size: contain;
 }
 
@@ -990,7 +989,6 @@ caption {
 }
 
 /* main-section7 */
-/* .main-section7{background:url("/theme/bs4_v3.0/img/pub/main-section7-bg.png") no-repeat; background-size:cover;} */
 .main-section7 {
 	overflow: hidden;
 	background: rgba(164, 112, 0, 1);
